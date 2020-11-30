@@ -73,7 +73,7 @@ textarea:focus {
   }
   textarea,
   #previewer {
-    padding: 0;
+    padding: 0.5em;
     height: 40vh;
   }
 }

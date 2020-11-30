@@ -14,7 +14,7 @@ function App() {
 
   const handleChange = (e)=>{
      setstate(e.target.value)
-     console.log(state)
+  
   }
 
 
